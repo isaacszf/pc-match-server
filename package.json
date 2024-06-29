@@ -1,0 +1,17 @@
+{
+  "name": "compatibilidade-de-pecas-para-pc-server",
+  "version": "1.0.0",
+  "description": "...",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.3"
+  }
+}
